@@ -3,7 +3,7 @@ Specification The Health Service Executive require a simple statistical analysis
 1. Prompt the user to enter one of four province’s and then allocate an array that will cater for the number of counties in the province. (Note at bottom of assignment) 
 2. Process the results by :
 
-• Allowing a user to enter all counties in the province by name. 
+• Allowing a user to enter all counties in the province by name.
 • Allowing a user to enter the number of new cases of COVID19 in each of the inputted counties in the past 24 hours.
 
 3. When data entry is complete, display a menu with the following options
